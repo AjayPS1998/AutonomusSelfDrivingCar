@@ -61,3 +61,8 @@ machine learning algorithms to achieve self navigation.
 1. Lane Detection
 
 https://user-images.githubusercontent.com/106143403/170021427-c9dfccf1-8e18-4b96-aad7-59b272fc8ae0.mp4
+
+2. Stop and Object Detection
+
+![stopandobjectdetection](https://user-images.githubusercontent.com/106143403/170022738-7867906d-f05b-4019-bc70-d065d7465b47.jpeg)
+
