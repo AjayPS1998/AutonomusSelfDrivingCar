@@ -56,7 +56,7 @@ machine learning algorithms to achieve self navigation.
 
 
 
-## Progress
+## Progress:
 
 1. Lane Detection
 
@@ -65,4 +65,20 @@ https://user-images.githubusercontent.com/106143403/170021427-c9dfccf1-8e18-4b96
 2. Stop and Object Detection
 
 ![stopandobjectdetection](https://user-images.githubusercontent.com/106143403/170022738-7867906d-f05b-4019-bc70-d065d7465b47.jpeg)
+
+
+## Coding Section: 
+
+1.Lane Detection
+
+![Lane DetectionComplete](https://user-images.githubusercontent.com/106143403/170023234-ea3387cf-7007-4a6c-9a85-43c38f874ded.jpeg)
+
+2.Stop Sign
+
+![stopsigndetection](https://user-images.githubusercontent.com/106143403/170023814-586fed4b-ffbd-4fb8-977c-86f903429eb9.jpeg)
+
+3. Object Detection
+
+![objectdetection](https://user-images.githubusercontent.com/106143403/170024099-a3fe2470-bfa3-4def-befa-42dd42d1917b.jpeg)
+
 
