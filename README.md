@@ -53,3 +53,11 @@ machine learning algorithms to achieve self navigation.
 3.OpenCv Library
 
 4.Wiringpi Library
+
+
+
+## Progress
+
+1. Lane Detection
+
+https://user-images.githubusercontent.com/106143403/170021427-c9dfccf1-8e18-4b96-aad7-59b272fc8ae0.mp4
